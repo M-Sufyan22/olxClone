@@ -1,0 +1,20 @@
+.shop_page_container {
+    border: 1px solid #000;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.shop_page_filter_left {
+    width: 35%;
+    min-height: 750px;
+    background-color: lightblue;
+}
+
+.shop_page_product_right {
+    width: 65%;
+    min-height: 750px;
+    background-color: rgb(115, 245, 227);
+}
